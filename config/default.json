@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://jake:omZGm0AkUUKLLZtK@cluster0-skl4r.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://jake:omZGm0AkUUKLLZtK@cluster0-skl4r.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "malicewins"
 }
