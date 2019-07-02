@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://jake:omZGm0AkUUKLLZtK@cluster0-skl4r.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "malicewins"
+  "jwtSecret": "malicewins",
+  "githubClientID": "298858bdd514d69d7957",
+  "githubClientSecret": "b4e4144e62cc41abb715b9149a7944487e4babe9"
 }
